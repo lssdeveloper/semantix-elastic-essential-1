@@ -43,3 +43,44 @@ e) Nome = memória e descrição = GB
 # Reindex
 ![image](https://user-images.githubusercontent.com/27785070/136424970-94ff6b7b-305d-4bc0-b832-067423b1da64.png)
 ![image](https://user-images.githubusercontent.com/27785070/136425007-e9b31cb6-d18e-474a-a18e-4035983e9278.png)
+
+# Correção - Exercícios de Índices
+
+#### 1. Visualizar as configurações do índice produto
+![image](https://user-images.githubusercontent.com/27785070/136624695-7703b16e-535c-405b-9bf6-e70f296510eb.png)
+
+#### 2. Visualizar o mapeamento do índice produto
+![image](https://user-images.githubusercontent.com/27785070/136624803-276dcb60-1207-4de4-8af4-8fe28bf446c0.png)
+
+#### 3. Visualizar o mapeamento do atributo nome do índice produto
+![image](https://user-images.githubusercontent.com/27785070/136624931-cf5c626a-8eff-49c2-bc01-688cd308adea.png)
+
+#### 4. Inserir o campo data do tipo date no índice produto
+![image](https://user-images.githubusercontent.com/27785070/136625536-83e01748-df01-41a5-b2b1-a7c4ba922864.png)
+
+#### 5. Adicionar o documento:
+_id: 6, "nome": "teclado", "qtd": 100, "descricao": "USB", "data":"2020-09-18"
+![image](https://user-images.githubusercontent.com/27785070/136626075-ab9910bf-d353-4014-82fd-ac4d7b3a25ed.png)
+#### 6. Reindexar o índice produto para produto2, com o campo quantidade para o tipo short
+![image](https://user-images.githubusercontent.com/27785070/136626016-ce18a04c-fcc0-41c8-a3e7-422e04f753aa.png)
+![image](https://user-images.githubusercontent.com/27785070/136626477-c925c50a-34dd-418e-a0dc-9039140ae62b.png)
+![image](https://user-images.githubusercontent.com/27785070/136626629-4771a8c1-3fb4-453c-9cd1-519f63f59984.png)
+![image](https://user-images.githubusercontent.com/27785070/136626909-695fd544-b84c-4130-a862-2f9fccfefb05.png)
+![image](https://user-images.githubusercontent.com/27785070/136626948-3a68d837-4fd8-4e46-a16b-7586a5679642.png)
+![image](https://user-images.githubusercontent.com/27785070/136626998-12e4a8c5-0e97-44cd-b7b3-cfb843bdedd0.png)
+![image](https://user-images.githubusercontent.com/27785070/136627180-578d3907-8c2f-4228-8706-1667886f1bab.png)
+![image](https://user-images.githubusercontent.com/27785070/136627424-d337e364-d2c4-43be-a476-5d882f227bbd.png)
+![image](https://user-images.githubusercontent.com/27785070/136627654-e8e226fe-d615-4209-8ed0-6857b83d7347.png)
+
+#### 7. Visualizar o mapeamento do índice produto2
+![image](https://user-images.githubusercontent.com/27785070/136627795-b12c9a18-49ce-41b9-ada6-d6482f802c92.png)
+
+#### 8. Fechar o índice produto
+![image](https://user-images.githubusercontent.com/27785070/136628000-9c113ce1-088b-4bc5-b55e-455e6b6695af.png)
+
+#### 9. Pesquisar todos os documentos no índice produto
+![image](https://user-images.githubusercontent.com/27785070/136628147-60877d17-08aa-4f2b-b826-9fa383a51152.png)
+
+#### 10. Abrir o índice produto
+![image](https://user-images.githubusercontent.com/27785070/136628735-9e3460a9-ab81-49b0-bc0c-505be2e64c39.png)
+
