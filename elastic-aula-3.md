@@ -8,6 +8,27 @@
 ![image](https://user-images.githubusercontent.com/27785070/136415890-9a018abf-22b1-4be1-a057-fb6f7d1645d6.png)
 ![image](https://user-images.githubusercontent.com/27785070/136415929-d8af9151-5a69-40a5-a39e-f3ee04a2837d.png)
 ![image](https://user-images.githubusercontent.com/27785070/136415971-a65180d1-f07f-43df-a906-3730715045ca.png)
+# Correção dos Exercícios - Pesquisa e Paginação
+
+#### 1. Pesquisar no índice produto os documentos com os seguintes atributos:
+
+a) Nome = mouse
+
+b) Quantidade = 30
+
+c) Descrição = USB
+
+d) Nome = hd e descrição = windows
+
+e) Nome = memória e descrição = GB
+
+![image](https://user-images.githubusercontent.com/27785070/136615699-3fb78e45-4460-436b-8dac-5fb4d66ad9be.png)
+
+
+#### 2. Pesquisar todos os índices, limitando a pesquisa em 5 documentos em cada página e visualizar a 4 página (Documentos entre 16 á 20 )
+![image](https://user-images.githubusercontent.com/27785070/136621593-eed02f70-6050-453a-8c2a-87fba91033cf.png)
+![image](https://user-images.githubusercontent.com/27785070/136621669-d63ef7b1-b98f-4643-867b-b3286ff9c7ae.png)
+
 # Gerenciamento de índices
 ![image](https://user-images.githubusercontent.com/27785070/136416045-a510b4f7-4902-44db-8953-51b67c07e921.png)
 ![image](https://user-images.githubusercontent.com/27785070/136416768-3e87ae70-f5b7-4aaf-9155-5a18f921b44b.png)
