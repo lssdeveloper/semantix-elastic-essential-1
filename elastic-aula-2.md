@@ -41,3 +41,36 @@
 ![image](https://user-images.githubusercontent.com/27785070/136403643-1c5cbae3-bb24-4bd2-b345-585402421455.png)
 # Exercícios Bulk API e Importação
 ![image](https://user-images.githubusercontent.com/27785070/136403781-87666a66-8aa9-465b-8a85-d4603423133f.png)
+# Bulk API e Importação
+
+#### 1. Importar os dados na Guia Arquivos para os índices
+
+Índice: concessionaria2
+dataset/cars.bulk
+
+![image](https://user-images.githubusercontent.com/27785070/136600355-fdd3ac41-d2e7-4606-bc93-ec1086439824.png)
+![image](https://user-images.githubusercontent.com/27785070/136600520-41a26db7-0d8f-4ddf-9906-70ab09288ba8.png)
+#### Click em import
+![image](https://user-images.githubusercontent.com/27785070/136600989-b285cbef-025d-4c27-8ede-9d497e339bc0.png)
+![image](https://user-images.githubusercontent.com/27785070/136601092-0960e768-8fd4-455c-9fe7-c3de5d7258d5.png)
+
+Índice: populacao
+dataset/populacaoLA.csv
+![image](https://user-images.githubusercontent.com/27785070/136601787-a85d21b3-f9f6-4ab7-8651-c6b83c4bce21.png)
+![image](https://user-images.githubusercontent.com/27785070/136601956-b0ad10a2-1837-4d24-83bc-c0d20bde1cdc.png)
+![image](https://user-images.githubusercontent.com/27785070/136602040-a8909bfc-bade-43b8-b438-74d82b8709ee.png)
+![image](https://user-images.githubusercontent.com/27785070/136602111-b0a146a2-ce09-4a89-8c9d-9b59ffc84912.png)
+![image](https://user-images.githubusercontent.com/27785070/136602179-826290c6-9b81-4a71-89c9-045c122ce269.png)
+
+#### 2. Executar as consultas
+![image](https://user-images.githubusercontent.com/27785070/136602490-f889778f-f586-4343-9db7-770f304c281f.png)
+
+Contar o número de documentos de cada um dos novos índices
+![image](https://user-images.githubusercontent.com/27785070/136602611-01026dfc-0224-44df-8905-d5b364cc2d94.png)
+![image](https://user-images.githubusercontent.com/27785070/136602731-322efdf9-7d52-4064-a2b5-c42fe6a17279.png)
+
+Mostrar todos os documentos de cada um dos novos índices
+![image](https://user-images.githubusercontent.com/27785070/136603122-14635353-8fcb-44cb-b491-7ba70a217954.png)
+![image](https://user-images.githubusercontent.com/27785070/136603198-fff475cb-4da4-48ef-b731-0efd4445a4b7.png)
+
+
