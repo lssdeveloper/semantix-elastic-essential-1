@@ -52,3 +52,27 @@ _d) Buscar a palavra “compativel” no campo descricao_
 ![image](https://user-images.githubusercontent.com/27785070/137137226-473642a6-a3cf-4c0f-a43b-fe715cf79401.png)
 ![image](https://user-images.githubusercontent.com/27785070/137137264-f0a3e50d-7685-460f-8e73-adb0e5290d2a.png)
 ![image](https://user-images.githubusercontent.com/27785070/137137333-265ac4b2-e0a6-4efb-9f8c-cb5893dfdf8a.png)
+ ### Correção Exercícios - Agregações
+
+_**Realizar os exercícios no índice bolsa**_
+
+**1. Calcular a média do campo volume**
+![image](https://user-images.githubusercontent.com/27785070/137235943-9cf21c10-82ab-49d9-9bfe-61dc29476128.png)
+
+**2. Calcular a estatística do campo close**
+![image](https://user-images.githubusercontent.com/27785070/137237468-b451ac84-bd62-4a5f-ad6e-b665bc8f4d6a.png)
+
+**3. Visualizar os documentos do dia 2019-04-01 até agora. (hits = 3)**
+![image](https://user-images.githubusercontent.com/27785070/137241792-3bd51038-e367-4fa8-b92a-7321361f6fad.png)
+
+**4. Calcular a estatística do campo open do período do dia 2019-04-01 até agora**
+![image](https://user-images.githubusercontent.com/27785070/137242537-010a7b45-0879-4c37-b0ed-cd933daf32c1.png)
+
+**5. Calcular a mediana do campo open**
+![image](https://user-images.githubusercontent.com/27785070/137242884-beb49254-2473-4fe4-80e7-00ee78125b2b.png)
+
+**6. Contar a quantidade de documentos agrupados por ano**
+![image](https://user-images.githubusercontent.com/27785070/137243306-f4fb9101-4bff-4bcd-8f6e-fa550ac2f844.png)
+
+**7. Contar a quantidade de documentos de 2 anos atrás até hoje**
+![image](https://user-images.githubusercontent.com/27785070/137243774-7950df3e-62be-4db2-959f-7cd5a340f965.png)
