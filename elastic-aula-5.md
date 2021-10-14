@@ -11,6 +11,27 @@
 ![image](https://user-images.githubusercontent.com/27785070/137136047-f583c105-b771-4634-81a7-2a7a5a40ec09.png)
 ![image](https://user-images.githubusercontent.com/27785070/137136093-039c1454-435a-462d-afcb-c5e59d2cc5f3.png)
 ![image](https://user-images.githubusercontent.com/27785070/137136147-d29eb274-ce6e-49a3-82ca-31ae28e5dffa.png)
+# Correção de Exercícios do Analyzer
+
+**1. Criar os Analyzer simple, standard, brazilian e portuguese para a seguinte frase:**
+![image](https://user-images.githubusercontent.com/27785070/137223277-f6da8c24-e356-47b6-938e-edc1ca937950.png)
+
+_O elasticsearch surgiu em 2010_
+**2. Realizar os passos no índice produto**
+
+_a) Criar um analyzer brazilian para o atributo descricao_
+![image](https://user-images.githubusercontent.com/27785070/137224524-e5db63cc-4b85-43af-8d34-a323546e68d1.png)
+![image](https://user-images.githubusercontent.com/27785070/137224696-bcb94108-289f-45e8-b210-52a8c008a83a.png)
+
+_b) Para o atributo descricao aplicar o analzyer brazilian para o tipo de campo text e criar o atributo descricao.original com o dado do tipo keyword_
+![image](https://user-images.githubusercontent.com/27785070/137225773-4ac8071c-154e-45e5-8dd8-4546057a121f.png)
+![image](https://user-images.githubusercontent.com/27785070/137225883-22e5dc78-4be9-4fad-bba2-2c5be2e5f240.png)
+![image](https://user-images.githubusercontent.com/27785070/137225958-2de46e04-696f-4bcc-acad-332a6fd58d6b.png)
+
+_c) Buscar a palavra “compativel” no campo descricao.original (hits = 0)_
+![image](https://user-images.githubusercontent.com/27785070/137226221-bb41b37f-9d8f-42d0-a361-96526f7cb95e.png)
+_d) Buscar a palavra “compativel” no campo descricao_
+![image](https://user-images.githubusercontent.com/27785070/137226312-8ee53105-8b44-4b48-944e-b78b91526a15.png)
 # Aggregations - Conceitos Tipos
 ![image](https://user-images.githubusercontent.com/27785070/137136280-18812866-118c-415e-8b08-b7074808af09.png)
 ![image](https://user-images.githubusercontent.com/27785070/137136315-63732503-d803-4bbf-b853-70a25cf47d8a.png)
